@@ -1,6 +1,7 @@
 
 body {
-    background: #106bd3;
+    background: linear-gradient(150deg,  #006eff,#eceaea, #006eff);
+    background-size: 300% 300%;
     font-family: Nunito;
     text-align: center;
 }
@@ -48,6 +49,20 @@ ul {
 #pontos, #result {
     color: white;
 }
+
+.container-foto .foto{
+    max-width: 450px;
+    border-radius: 50%;
+}
+
+.container-foto img{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
 
 
 

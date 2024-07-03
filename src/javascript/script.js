@@ -3,125 +3,149 @@ let perguntas = [
 {
     titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
     alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    correta: 0
+},
+
+{
+    titulo: 'Nome da ilha em que eles encontram a Vivi pela primeira vez?',
+    alternativas: ['Escaipia', 'Alabasta', 'x', 'x'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Quando a Robbin entra pela primeira vez no bando?',
+    alternativas: ['x', 'x', 'Após o arco de alabasta', 'x'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Segundo(a) companheiro(a) a se juntar ao luffy?',
+    alternativas: ['Sanji', 'Chopper', 'Nami', 'Zoro'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Nome do vilão que eles enfrentam na ilha da Nami?',
+    alternativas: ['Barba negra', 'Buggy', 'Barba branca', 'Airou'],
+    correta: 3
+},
+
+{
+    titulo: 'Terceiro(a) companheiro(a) a se juntar ao luffy?',
+    alternativas: ['Zoro', 'Usopp', 'Nami', 'Sanji'],
+    correta: 3
+},
+
+{
+    titulo: 'Nome da ilha da Nami?',
+    alternativas: ['x', 'Vila cocoiachi', 'x', 'x'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Qual o nome do irmão do Luffy?',
+    alternativas: ['Sabo', 'Ace', 'x', 'x'],
+    correta: 1
+},
+
+{
+    titulo: 'Porque a Nami odeia piratas?',
+    alternativas: ['Por causa dos homens peixe que invadiram sua vila', 'x', 'x', 'x'],
+    correta: 0
+},
+
+{
+    titulo: 'Nome primeiro companheiro(a) temporário(a) da tripulação?',
+    alternativas: ['Robbin', 'Vivi', 'Franky', 'Koubi'],
+    correta: 3
+},
+
+{
+    titulo: 'Nome do pirata que salvou o Sanji?',
+    alternativas: ['Zeffy', 'Rogger', 'Buggy', 'Crocodile'],
+    correta: 0
+},
+
+{
+    titulo: 'Nome da amiga do Zoro?',
+    alternativas: ['x', 'x', 'x', 'Quina'],
+    correta: 3
+},
+{
+    titulo: 'Qual o objetivo do Zoro?',
+    alternativas: ['One Piece', 'Ser o maior espadachin', 'Ser cartográfo', 'Encontrar o alblue'],
+    correta: 1
+},
+
+{
+    titulo: 'Primeiro(a) companheiro(a) temporário(a) da tripulação depois que entram na GranLine?',
+    alternativas: ['vivi', 'Usopp', 'Franky', 'Robbin'],
+    correta: 0
+},
+
+{
+    titulo: 'Qual o objetivo da Nami?',
+    alternativas: ['x', 'x', 'x', 'Desenhar um mapa do mundo inteiro'],
+    correta: 3
+},
+
+{
+    titulo: 'Como eles entraram na GranLine?',
+    alternativas: ['Por uma ponte', 'Subindo uma cachoiera', 'Por um portal', 'Por um buraco no fundo do mar'],
+    correta: 1
+},
+
+{
+    titulo: 'Qual o objetivo do Luffy?',
+    alternativas: ['Ser médico', 'arqueologo', 'ser o maior cozinheiro', 'One Piece'],
+    correta: 3
+},
+
+{
+    titulo: 'Nome do primeiro vilão que o Luffy enfrenta?',
+    alternativas: ['Crocodile', 'Airou', 'Buggy', 'Don Flamingo'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Nome da fruta da Robbi',
+    alternativas: ['x', 'x', 'x', 'Robbin'],
+    correta: 3
+},
+
+{
+    titulo: ' Nome da fruta do Usopp',
+    alternativas: ['Ele não comeu nenhuma fruta', 'Bararanomi', 'Gomugomunomi', 'A fruta do mentiroso'],
+    correta: 0
+},
+
+{
+    titulo: 'Qual o objetivo do Sanji?',
+    alternativas: ['Alblue', 'x', 'x', 'x'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: ' Quantos dos tripulantes não são usuários de acumanomi? (Até o arco de escaipia)',
+    alternativas: ['1', '2', '3', '4'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Nome da fruta do Buggy?',
+    alternativas: ['x', 'x', 'x', 'x'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'QNome da baleia que eles enfrentam quando entram na GranLine?',
+    alternativas: ['x', 'x', 'x', 'x'],
     correta: 2
 },
 
 {
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
-    correta: 2
-},
-
-{
-    titulo: 'Primeiro(a) companheiro(a) a entrar no bando do Luffy?',
-    alternativas: ['Zoro', 'Sanji', 'Nami', 'Robbin'],
+    titulo: 'Nome da fruta do Luffy',
+    alternativas: ['x', 'x', 'x', 'x'],
     correta: 2
 },
 ]
