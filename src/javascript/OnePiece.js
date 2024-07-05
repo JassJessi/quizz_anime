@@ -158,9 +158,9 @@ start: function(){
     this.Totalpontos = 0;
 
     let alts = document.querySelectorAll('.alternativa');
-    alts.forEach((element,index)=>{
+    alts.forEach((element,OnePiece)=>{
         element.addEventListener('click', ()=>{
-            this.checaResposta(index);        
+            this.checaResposta(OnePiece);        
         })
     })
     this.atualizaPontos();
@@ -174,8 +174,8 @@ mostraquestao: function(q){
     titleDiv.textContent = q.titulo;
     //mostrando as alternativas
     let alts = document.querySelectorAll('.alternativa');
-    alts.forEach(function(element,index){
-        element.textContent = q.alternativas[index];
+    alts.forEach(function(element,OnePiece){
+        element.textContent = q.alternativas[OnePiece];
         })
 
 },
@@ -232,14 +232,4 @@ mostraresposta: function(correto){
 
 
 app.start();
-
-
-
-/* Ouvinte de eventos: Avisa que o usuário clicou em algum lugar da tela
-
-let btn = document.getElementById('btn');
-btn.addEventListener('click',function() {
-    console.log("O cara clicou ali oh!");
-})
-*/
 
